@@ -13,6 +13,8 @@
 		0E16CCEF1D24779C00A45A17 /* PrivacyStudy.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0E16CCED1D24779C00A45A17 /* PrivacyStudy.xcdatamodeld */; };
 		0E16CCF11D24779C00A45A17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E16CCF01D24779C00A45A17 /* Assets.xcassets */; };
 		0E16CCF41D24779C00A45A17 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E16CCF21D24779C00A45A17 /* LaunchScreen.storyboard */; };
+		0E16CCFD1D24780800A45A17 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 0E16CCFB1D24780800A45A17 /* README.md */; };
+		0E16CCFE1D24780800A45A17 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 0E16CCFC1D24780800A45A17 /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		0E16CCF01D24779C00A45A17 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0E16CCF31D24779C00A45A17 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0E16CCF51D24779C00A45A17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0E16CCFB1D24780800A45A17 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		0E16CCFC1D24780800A45A17 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 		0E16CCE51D24779C00A45A17 /* PrivacyStudy */ = {
 			isa = PBXGroup;
 			children = (
+				0E16CCFB1D24780800A45A17 /* README.md */,
+				0E16CCFC1D24780800A45A17 /* LICENSE */,
 				0E16CCE61D24779C00A45A17 /* AppDelegate.swift */,
 				0E16CCE81D24779C00A45A17 /* ViewController.swift */,
 				0E16CCEA1D24779C00A45A17 /* Main.storyboard */,
@@ -127,6 +133,7 @@
 			files = (
 				0E16CCF41D24779C00A45A17 /* LaunchScreen.storyboard in Resources */,
 				0E16CCF11D24779C00A45A17 /* Assets.xcassets in Resources */,
+				0E16CCFE1D24780800A45A17 /* LICENSE in Resources */,
 				0E16CCEC1D24779C00A45A17 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -140,6 +147,7 @@
 			files = (
 				0E16CCE91D24779C00A45A17 /* ViewController.swift in Sources */,
 				0E16CCEF1D24779C00A45A17 /* PrivacyStudy.xcdatamodeld in Sources */,
+				0E16CCFD1D24780800A45A17 /* README.md in Sources */,
 				0E16CCE71D24779C00A45A17 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
